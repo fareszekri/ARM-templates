@@ -5,8 +5,8 @@
         "adminUsername": {
             "value": "farez"
         },
-        "dnsNameForPublicIP": {
-            "value": null
-        }
+      "dnsNameForPublicIP": {
+        "value": "fzSPG"
+      }
     }
 }
